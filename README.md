@@ -1,19 +1,31 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🌍 Guia Turístico de Torshov
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Projeto desenvolvido individualmente como parte de um desafio prático da plataforma [Scrimba](https://scrimba.com/), com o objetivo de praticar conceitos de desenvolvimento front-end.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+## 📌 Sobre o projeto
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+O site apresenta um pequeno guia turístico de Torshov, bairro localizado em Oslo, na Noruega, destacando algumas opções de cultura, lazer e esportes disponíveis na região.
 
-Happy Coding!
+### ✨ Funcionalidades e conteúdo
+
+- **Cultura:** apresentação do Teatro de Torshov.
+- **Lazer:** sugestões para aproveitar o Parque de Torshov.
+- **Esportes:** destaque para atividades esportivas no bairro.
+- **Apresentação visual:** utilização de imagens, textos e seções organizadas para proporcionar uma experiência visual agradável.
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+
+## 🎯 Objetivo do desafio
+
+Praticar a estruturação e a estilização de páginas web, aplicando conceitos fundamentais de HTML e CSS na construção de uma interface visualmente organizada.
+
+## 📚 Plataforma
+
+Projeto realizado como desafio individual na [Scrimba](https://scrimba.com/).
+
+## 👨‍💻 Autor
+
+**Júlio César Neri de Oliveira**
