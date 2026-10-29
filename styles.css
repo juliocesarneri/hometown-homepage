@@ -6,7 +6,7 @@ body{
 
 #hero{
     padding: 60px;
-    background-image: url("images/torshov.jpg");
+    background-image: url("./images/torshov.jpg");
     background-size: cover;
     display: flex;
     flex-direction: column;
